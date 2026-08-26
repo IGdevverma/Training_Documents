@@ -73,3 +73,33 @@ Day 2 - 26th Aug. 2026
 				- Choose AMD64 for Windows			
 	
 
+
+
+
+
+
+
+
+
+		Secure Connection between the Servers :::
+		
+			-> Linux Servers =========================> Linux Machines(Client)
+			
+									SSH Connection 
+									Secure Shell Connection 
+									
+			-> Authentication Methods ::::
+			
+					- Secure Shell Connection
+					
+						- Password based Authentication
+						
+						- Key based Authentication
+						
+						- Token based Authentication
+						
+						- Passwordless Authentication
+						
+						
+			-> Authorization ::::
+			

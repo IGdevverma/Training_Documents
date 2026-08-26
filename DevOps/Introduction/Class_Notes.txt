@@ -15,7 +15,7 @@ Day 2 - 26th Aug. 2026
 	
 		DevOps Modules : 	Open-Source Tools/Services
 		
-		- AWS Cloud Platform :::
+		1 AWS Cloud Platform :::
 			
 			- To Create AWS Free-Tier Account ::
 			
@@ -33,11 +33,9 @@ Day 2 - 26th Aug. 2026
 				-> Create AWS EC2 Instances(Linux VMs) to Manage Open-Source DevOps Tools & Services.
 				
 				
-		- GITHub Account :::
+		2. GITHub Account :::
 		
 			- https://github.com/
-			
-			
 			
 			- Used to Maintain the Application Source Code and Project Documents 
 			
@@ -46,4 +44,32 @@ Day 2 - 26th Aug. 2026
 			
 			- https://github.com/PL-DevOps-Cloud-2608/Training_Documents
 		
+		3. Install git client on Local Machine
+		
+			- https://git-scm.com/install/
 			
+		4. DockerHub Account
+		
+			- https://hub.docker.com/  # Create using existing Github 
+			
+			
+		5. Install Visual Studio Code on Local Machine 	- Develop the Source Code.
+			
+			- https://code.visualstudio.com/download
+
+		6. Install MobaXTerm/Putty on Local Machine - Windows Users
+		
+			- SSH Agent to connect to Remote Servers.
+			
+			- https://mobaxterm.mobatek.net/download-home-edition.html  
+				# Choose Installer Edition.
+				# Right click & Extract 
+				# Goto to the Folder & Run the Exec.
+	
+
+		7. Install Terraform on Local Machine
+															
+			# https://developer.hashicorp.com/terraform/install
+				- Choose AMD64 for Windows			
+	
+

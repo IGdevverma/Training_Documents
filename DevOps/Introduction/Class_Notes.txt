@@ -1,0 +1,49 @@
+PaperLive - DevOps with Multi-Cloud:
+
+Start Date: 25th Aug. 2026
+
+
+Day 1 - Introduction
+
+
+#########################
+Day 2 - 26th Aug. 2026
+#########################
+
+	- Lab Environments :
+	
+	
+		DevOps Modules : 	Open-Source Tools/Services
+		
+		- AWS Cloud Platform :::
+			
+			- To Create AWS Free-Tier Account ::
+			
+				- Active E_Mail_Id, Mobile_Number, Credit/Debit Card(Enabled with International Transactions)
+				
+				- 200 USD - 6 months
+				
+				- https://aws.amazon.com/console/
+				
+				- https://aws.amazon.com/resources/create-account/
+				
+				
+			- For DevOps Modules ::
+			
+				-> Create AWS EC2 Instances(Linux VMs) to Manage Open-Source DevOps Tools & Services.
+				
+				
+		- GITHub Account :::
+		
+			- https://github.com/
+			
+			
+			
+			- Used to Maintain the Application Source Code and Project Documents 
+			
+			- Create GitHub Repositories to Manage the DevOps Components & Training Docs
+			
+			
+			- https://github.com/PL-DevOps-Cloud-2608/Training_Documents
+		
+			
